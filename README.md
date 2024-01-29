@@ -4,4 +4,6 @@ Learning about CSS transforms by building a penguin [Penguin challange on freeCo
 
 ### Screenshot
 
+<img width="512" alt="image" src="https://github.com/gab-holik/freeCodeCamp---Penguin/assets/97192580/b2534275-365b-4396-946b-962091cc7652">
+
 Figure 1: Penguin Preview
